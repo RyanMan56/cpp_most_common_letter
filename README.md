@@ -1,4 +1,6 @@
-# Hello World in C++
+# Find the most common letter in a string
+
+Inspired by [this beauty](https://reddit.com/r/programminghorror/s/BExgjEk0cF)
 
 ## How to run:
 
