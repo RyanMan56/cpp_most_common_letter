@@ -11,8 +11,8 @@ CFLAGS = \
 # can also use one or more "-I directory_name" flags to define additional include directories
 
 # Project files
-OBJECTS = helloworld.o
-EXE = helloworld
+OBJECTS = most_common_letter.o
+EXE = most_common_letter
 
 # Debug build settings
 DEBUG_DIR = debug
