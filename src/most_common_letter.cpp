@@ -11,7 +11,7 @@ int main()
     std::cout << "Enter a word or sentence: ";
 
     std::string input_string {};
-    std::getline(std::cin, input_string);
+    std::getline(std::cin >> std::ws, input_string);
 
     // Stores each letter against how many times it has occurred so far
     std::unordered_map<char, int> letters_map {};
